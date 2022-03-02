@@ -50,4 +50,13 @@ func main() {
 	var data = [3]string{}
 	// mencetak panjang array atau string
 	fmt.Println(len(data))
+
+	// Array Multi Dimensi
+	var multiArr = [3][2]string{
+		{"HTML", "CSS"},
+		{"Javascript", "Go"},
+		{"Node Js", "Deno"},
+	}
+
+	fmt.Println(multiArr)
 }
