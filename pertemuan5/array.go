@@ -24,7 +24,7 @@ func main() {
 
 		2. Cara Kedua
 
-		Kita gk wajib mendeklarasikan panjang arraynya, bisa di kosongin atau di isi dengan ...
+		Kita gk wajib mendeklarasikan panjang arraynya, kalau tidak isi aja dengan ...
 		jika kita belum tahu array tersebut panajngnya bakal berapa
 		var namaVariable = [panjangArraynya]dataType{value1, value2}
 	*/
